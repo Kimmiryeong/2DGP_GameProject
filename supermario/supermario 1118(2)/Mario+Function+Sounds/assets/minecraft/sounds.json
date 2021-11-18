@@ -1,0 +1,37 @@
+{
+	"mario.die": {
+		"sounds": [
+			"mario/die"
+		]
+	},
+	"mario.powerup": {
+		"sounds": [
+			"mario/powerup"
+		]
+	},
+	"mario.star": {
+		"sounds": [
+			"mario/star"
+		]
+	},
+	"mario.warp": {
+		"sounds": [
+			"mario/warp"
+		]
+	},
+	"mario.item": {
+		"sounds": [
+			"mario/item"
+		]
+	},
+	"mario.stomp": {
+		"sounds": [
+			"mario/stomp"
+		]
+	},
+	"mario.shell": {
+		"sounds": [
+			"mario/shell"
+		]
+	}
+} 
